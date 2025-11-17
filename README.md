@@ -76,7 +76,9 @@ Um ficheiro será criado no teu computador
 ⚠️ Nunca o partilhes
 
 🟦 4. Usar o Colab (muito simples)
+
 1️⃣ Abrir o notebook (botão no início)
+
 2️⃣ Fazer upload de keys.env
 
 Quando o Colab pedir:
@@ -137,6 +139,7 @@ Users do not need to edit any code — just upload their own keys.env and option
 ▶️ Open in Google Colab
 
 🟩 1. How to Get Spotify API Keys
+
 1️⃣ Open Spotify Developer Dashboard
 
 <a href="https://developer.spotify.com/dashboard" target="_blank"> <img src="https://img.shields.io/badge/Open%20Spotify%20Dashboard-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> </a>
@@ -204,7 +207,9 @@ Save the file
 ⚠️ Contains sensitive login info
 
 🟦 4. How to Use the Colab Notebook
+
 1️⃣ Open the notebook
+
 2️⃣ Upload keys.env
 
 When prompted:
@@ -234,6 +239,7 @@ https://open.spotify.com/album/...
 https://open.spotify.com/track/...
 
 5️⃣ Wait for downloads
+
 6️⃣ Download the ZIP file
 
 The Colab automatically downloads it.
