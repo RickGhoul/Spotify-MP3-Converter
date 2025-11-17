@@ -16,6 +16,7 @@ To access Spotify’s API, you need to create an app inside Spotify for Develope
 1. Create a Spotify Developer Account
 
 Go to the Spotify Developer Dashboard:
+
 <a href="https://developer.spotify.com/dashboard" target="_blank"><img src="https://img.shields.io/badge/Open%20Spotify%20Dashboard-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
 Log in with your Spotify account.
@@ -81,9 +82,8 @@ Choose “Export cookies to cookies.txt”
 
 A file named cookies.txt will be saved to your computer
 
-📁 File Overview
 
-IMFO.md — This documentation
+📁 File Overview
 
 cookies.txt — Exported cookies (keep private!)
 
