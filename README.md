@@ -12,6 +12,7 @@ Os utilizadores não precisam de editar código — apenas carregam o seu keys.e
 Para ler músicas/playlists/álbuns, precisas de API keys.
 
 1️⃣ Abrir o Spotify Developer Dashboard
+
 <a href="https://developer.spotify.com/dashboard" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Spotify%20Dashboard-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> </a>
 
 Faz login com a tua conta Spotify.
