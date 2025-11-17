@@ -6,6 +6,7 @@ Os utilizadores não precisam de editar código — apenas carregam o seu keys.e
 
 ▶️ Abrir no Google Colab
 
+
 🟩 1. Como obter as API Keys do Spotify
 
 Para ler músicas/playlists/álbuns, precisas de API keys.
@@ -57,7 +58,9 @@ O cookies.txt só é necessário em playlists muito grandes (1000+ músicas) ou 
 Caso contrário → não uses cookies.
 
 1️⃣ Instalar a extensão “Get cookies.txt” (Chrome)
+
 <a href="https://chromewebstore.google.com/search/get%20cookies.txt" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
 2️⃣ Exportar cookies do YouTube
 
 Abre o YouTube (logado)
@@ -134,6 +137,7 @@ Users do not need to edit any code — just upload their own keys.env and option
 
 🟩 1. How to Get Spotify API Keys
 1️⃣ Open Spotify Developer Dashboard
+
 <a href="https://developer.spotify.com/dashboard" target="_blank"> <img src="https://img.shields.io/badge/Open%20Spotify%20Dashboard-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> </a>
 
 Log in with your Spotify account.
@@ -183,7 +187,9 @@ YouTube blocks you with
 Otherwise → skip it.
 
 1️⃣ Install “Get cookies.txt” extension
+
 <a href="https://chromewebstore.google.com/search/get%20cookies.txt" target="_blank"> <img src="https://img.shields.io/badge/Open%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
 2️⃣ Export YouTube cookies
 
 Open YouTube (logged in)
